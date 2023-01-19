@@ -1,7 +1,7 @@
 # დასკვნითი გამოცდა
 ჯგუფი 1.1  ანა ხინჩიკაშვილი ,  მარიამ ჟივიძე
 
-please view our documentation by pressing (Documentation of QuoteApp)[https://docs.google.com/document/d/1x0SSheBEZMJ-Irg5zv3fsqtzihuWEOLqtIt9thbB_hk/edit#heading=h.qkhw0oemnpla]
+please view our documentation by pressing [Documentation of QuoteApp](https://docs.google.com/document/d/1x0SSheBEZMJ-Irg5zv3fsqtzihuWEOLqtIt9thbB_hk/edit#heading=h.qkhw0oemnpla)
 ## ციტატების აპლიკაცია
    ერთ სივრცეში გაერთიანებული სხვადასხვა ავტორის ციტატები, რომლებიც ეხება მრავალფეროვან თემებს, ეხმარება მოსწავლეებს, აბიტურიენტებსა და სხვა ყველა ადამიანს სხვადასხვა პრობლემის მოგვარებაში. აბიტურიენტები ამ აპლიკაციას გამოიყენებენ ქართული ენის გამოცდის ჩასაბარებლად, მოსწავლეები - სწავლა-განათლებისთვის, ხოლო ყველა სხვა ადამიანი - საკუთარი თავის პოვნისთვისა და მოტივაციის ასამაღლებლად. ერთმა ციტატამ შეიძლება პიროვნების რუტინა შეცვალოს, ხოლო მათმა ნაკრებმა - მთელი მათი ცხოვრება. ამიტომ შევქმენით აპლიკაცია, რომელიც ხალხის ცხოვრებას უკეთესობისკენ შეცვლას ემსახურება.
    
